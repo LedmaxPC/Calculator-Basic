@@ -1,0 +1,10 @@
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp4\DesktopApp4\bin\Debug\DesktopApp4.exe.config
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp4\DesktopApp4\bin\Debug\DesktopApp4.exe
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp4\DesktopApp4\bin\Debug\DesktopApp4.pdb
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp4\DesktopApp4\obj\Debug\DesktopApp4.csprojAssemblyReference.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp4\DesktopApp4\obj\Debug\DesktopApp4.Form1.resources
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp4\DesktopApp4\obj\Debug\DesktopApp4.Properties.Resources.resources
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp4\DesktopApp4\obj\Debug\DesktopApp4.csproj.GenerateResource.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp4\DesktopApp4\obj\Debug\DesktopApp4.csproj.CoreCompileInputs.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp4\DesktopApp4\obj\Debug\DesktopApp4.exe
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp4\DesktopApp4\obj\Debug\DesktopApp4.pdb
